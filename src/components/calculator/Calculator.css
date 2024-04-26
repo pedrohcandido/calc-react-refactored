@@ -1,8 +1,3 @@
-#title{
-	text-align: center;
-	font-family: math;
-	color: white;
-}
 #calculator{
 	position: absolute;
 	top: 50%;
@@ -12,15 +7,6 @@
 	padding: 15px;
 	background-color: black;
 	font-size: 25px;
-	border: none;
-}
-button{
-	width: 65px;
-	height: 65px;
-	margin: 5px;
-	cursor: pointer;
-	font-size: 30px;
-	border-radius: 40px;
 	border: none;
 }
 input{
@@ -34,52 +20,3 @@ input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button{
 	appearance: none;
 }
-.result{
-	background-color: white;
-	text-align: right;
-	width: 280px;
-	height: 20px;
-	padding: 5px;
-	font-size: 20px;
-	margin-bottom: 15px;
-}
-
-
-
-
-
-
-/* .App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
