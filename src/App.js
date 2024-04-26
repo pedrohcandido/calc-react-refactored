@@ -1,9 +1,8 @@
-import Calculator from "./components/calculator/Calculator";
+import Calculator from "./components/calculator";
 
 function App() {
   return (
 		<Calculator />
-		//teste alteração
   );
 }
 
