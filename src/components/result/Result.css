@@ -1,0 +1,9 @@
+.result{
+	background-color: white;
+	text-align: right;
+	width: 280px;
+	height: 20px;
+	padding: 5px;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
